@@ -4,4 +4,10 @@ A meme I made in an effort to overcome the main barrier to leaving Facebook for 
 
 Files made using Inkscape, the open-source alternative to Adobe Illustrator.
 
-![English ver](figure-english.png?raw=true "English Version")
+# English version
+
+![English ver](figure-english.png?raw=true)
+
+# Armenian version
+
+![Armenian ver](figure-armenian.png?raw=true)
