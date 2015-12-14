@@ -17,23 +17,11 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="vector-armenian.svg"
-   inkscape:export-filename="/home/noch/github/join-diaspora-meme/figure-armenian.png"
+   inkscape:export-filename="/home/richard/src/join-diaspora-meme/figure-armenian.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
      id="defs3450">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5650">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5652" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5654" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4299">
@@ -177,17 +165,6 @@
        r="111.26612"
        gradientTransform="matrix(0.62093498,-0.68252257,0.4434372,0.40342353,-47.191952,2278.3096)"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5650"
-       id="radialGradient5656"
-       cx="589.01143"
-       cy="1771.285"
-       fx="589.01143"
-       fy="1771.285"
-       r="165.10942"
-       gradientTransform="matrix(1,0,0,0.19874148,-2,1431.13)"
-       gradientUnits="userSpaceOnUse" />
     <mask
        maskUnits="userSpaceOnUse"
        id="mask7765">
@@ -318,15 +295,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75367647"
-     inkscape:cx="319.18392"
-     inkscape:cy="567.20893"
+     inkscape:zoom="0.96102398"
+     inkscape:cx="345.68436"
+     inkscape:cy="150.98623"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1438"
-     inkscape:window-height="868"
-     inkscape:window-x="-39"
+     inkscape:window-width="1918"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="in"
@@ -843,27 +820,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="472.59604"
+       x="432.59604"
        y="818.06427"
        id="text4999"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3612"
-         x="472.59604"
+         x="432.59604"
          y="818.06427">(<tspan
-   style="-inkscape-font-specification:'Arian AMU, Bold';font-family:'Arian AMU';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:35px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
    id="tspan3620">ազատ</tspan>, ապակենտրոնացված</tspan><tspan
          sodipodi:role="line"
          id="tspan3614"
-         x="472.59604"
+         x="432.59604"
          y="861.81427">այլընտրանքային ցանց որ</tspan><tspan
          sodipodi:role="line"
          id="tspan3616"
-         x="472.59604"
+         x="432.59604"
          y="905.56427">նախագծված է համայնքի կողմից</tspan><tspan
          sodipodi:role="line"
          id="tspan3618"
-         x="472.59604"
+         x="432.59604"
          y="949.31427">եւ լրտեսությամբ չի զբաղվում)</tspan></text>
     <text
        xml:space="preserve"
@@ -898,39 +875,38 @@
        width="306.67584" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Burst My Bubble';-inkscape-font-specification:'Burst My Bubble, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="720.27722"
-       y="1257.6769"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.51631165px;line-height:125%;font-family:'Burst My Bubble';-inkscape-font-specification:'Burst My Bubble, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="915.9762"
+       y="1028.472"
        id="text5066"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="matrix(0.8124814,0.00736029,0,1.2307974,0,0)"><tspan
          sodipodi:role="line"
-         x="720.27722"
-         y="1257.6769"
-         style="font-size:27.5px;text-align:end;text-anchor:end"
+         x="915.9762"
+         y="1028.472"
+         style="font-size:27.16746712px;text-align:end;text-anchor:end"
          id="tspan5036"><tspan
            id="tspan3634"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">Մտիր</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.16746712px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">Մտիր</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Burst My Bubble';-inkscape-font-specification:'Burst My Bubble Bold'"
            id="tspan5092"> https://podupti<tspan
-   style="font-size:50px"
+   style="font-size:49.39539337px"
    id="tspan5208">.</tspan>me/</tspan></tspan><tspan
          sodipodi:role="line"
-         x="720.27722"
-         y="1298.9786"
-         style="font-size:27.5px;text-align:end;text-anchor:end"
-         id="tspan5090"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
-           id="tspan3636">  Միացիր մոտակա հանգույցին։</tspan></tspan><tspan
+         x="915.9762"
+         y="1080.6863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.16746712px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         id="tspan4399">  Միացիր մոտակա հանգույցին։</tspan><tspan
          sodipodi:role="line"
-         x="720.27722"
-         y="1332.8818"
-         style="font-size:27.5px;text-align:end;text-anchor:end"
+         x="915.9762"
+         y="1114.3597"
+         style="font-size:27.16746712px;text-align:end;text-anchor:end"
          id="tspan3638">Տարածիր քո Դիասպորա հաշիվը եւ այս նկարը։</tspan><tspan
          sodipodi:role="line"
-         x="720.27722"
-         y="1367.2568"
+         x="915.9762"
+         y="1148.0332"
          id="tspan5080"
-         style="font-size:27.5px;text-align:end;text-anchor:end" /></text>
+         style="font-size:27.16746712px;text-align:end;text-anchor:end" /></text>
     <path
        inkscape:connector-curvature="0"
        id="path5148"
@@ -1344,26 +1320,19 @@
          x="346.40247"
          y="1743.7378"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">բոլորով տեղափոխվե՛ք։</tspan></text>
-    <rect
-       style="opacity:1;fill:url(#radialGradient5656);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.50674987;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5570"
-       width="330.21884"
-       height="65.628174"
-       x="421.90201"
-       y="1750.3438" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="488.2692"
-       y="1799.2784"
+       x="444.2692"
+       y="1793.2784"
        id="text5050-2"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5052-4"
-         x="488.2692"
-         y="1799.2784"
+         x="444.2692"
+         y="1793.2784"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Arian AMU';-inkscape-font-specification:'Arian AMU, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;stroke:none;stroke-opacity:1">Պատրաստել է՝ RovingRichard@therealtalk.org</tspan></text>
     <path
        style="fill:#000000"
@@ -1404,6 +1373,21 @@
        d="m 624.15092,187.28716 -5.97073,-1.65853 -2.81951,9.95122 2.65365,2.15609 6.13659,-9.78536"
        id="path5226"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Burst My Bubble';-inkscape-font-specification:'Burst My Bubble, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="543.06201"
+       y="1298.3215"
+       id="text4408"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4410"
+         x="543.06201"
+         y="1298.3215"></tspan><tspan
+         sodipodi:role="line"
+         x="543.06201"
+         y="1348.3215"
+         id="tspan4412" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
