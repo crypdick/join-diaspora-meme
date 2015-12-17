@@ -13,10 +13,17 @@ Social icons taken from [neilorangepeel/Free-Social-Icons](https://github.com/ne
 
 ![English ver](figure-english.png?raw=true)
 
+# Spanish version
+
+![Spanish ver](figure-espanol.png?raw=true)
+Translator: podmin@diaspora.com.ar
+
 # Armenian version
 
 ![Armenian ver](figure-armenian.png?raw=true)
+Translator: tanakian@spyurk.am
 
 # Polish version
 
 ![Polish ver](figure-polish.png?raw=true)
+Translator: rysiek@joindiaspora.com
