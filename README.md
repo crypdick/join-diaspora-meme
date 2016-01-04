@@ -18,6 +18,11 @@ Social icons taken from [neilorangepeel/Free-Social-Icons](https://github.com/ne
 ![Spanish ver](figure-espanol.png?raw=true)
 Translator: podmin@diaspora.com.ar
 
+# French version
+
+![French ver](figure-french.png?raw=true)
+Translator: Loelo
+
 # Armenian version
 
 ![Armenian ver](figure-armenian.png?raw=true)
