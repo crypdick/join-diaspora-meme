@@ -21,7 +21,7 @@ Translator: podmin@diaspora.com.ar
 # French version
 
 ![French ver](figure-french.png?raw=true)
-Translator: Loelo
+Translator: Loelo@diaspora-fr.org
 
 # Armenian version
 
